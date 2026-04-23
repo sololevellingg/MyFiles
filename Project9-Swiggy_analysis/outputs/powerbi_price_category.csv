@@ -1,0 +1,4 @@
+price_category,restaurants,avg_rating,avg_delivery,avg_order_value,total_orders
+Premium,379,4.1,44.3,1755.0,2219
+Mid-Range,854,3.8,44.7,753.0,5159
+Budget,767,3.52,44.2,318.0,4622
